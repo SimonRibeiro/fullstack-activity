@@ -3,6 +3,8 @@
 Clone this repo, and run `npm install` from within the project directory.
 ## Using the app ##
 Run `npm start` from within the project directory.
+//Doesn't work in some cases on Windows
+=> Supposed to actually run `node node_modules/live-server/live-server --port=8081`, works if run directly.
 
 Choose the port your API is running on, and click TEST ROUTES to test your API.
 ## Schema ##
